@@ -1,0 +1,14 @@
+.topdiv{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.products img{
+    width: 17rem;
+    height: 220px;
+    
+}
+
+.cart-products img{
+    height: 30px;
+}
